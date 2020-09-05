@@ -1,2 +1,3 @@
 # Anti-Grief-Discord-Bot
 English: If you want to use this Bot, you must replace 123 in line 3 (ownerfromdiscord = "123"; ) with your id. In line 1 please replace "your bot token here" with your bot id (const bottoken = "your bot token here";) You can ignore the // After much lines. There you can only see what exactly is being done in the line. Because the bot was actually intended for German servers. But since I thought you can use it for several servers. License: GNU AFFERO GENERAL PUBLIC LICENSE v 3.0
+German: Wenn du den Bot nutzen magst, lese dir einfach in der index.js die letzten Zeilen durch. License: GNU AFFERO GENERAL PUBLIC LICENSE v 3.0
