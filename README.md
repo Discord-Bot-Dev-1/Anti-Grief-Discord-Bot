@@ -1,5 +1,18 @@
 # Anti-Grief-Discord-Bot
 
+(EN) What is this bot doing?
+It's very simple, the bot saves when a user does @everyone or @here. If a user (preset but changeable) does 5x the hour @everyone or @here, he will be banned and the user who is specified in the config will receive information via private messages.
+
+IMPORTANT only uses the bot on one server and sets it to private! Otherwise the bot will not work properly.
+
+(DE/GE) Was macht dieser Bot?
+Es ist ganz einfach, der Bot speichert ab wenn ein User @everyone oder @here macht. Sollte ein User (voreingestellt, aber veränderbar) 5x die Stunde @everyone oder @here machen wird er gebannt und der User der in der config festgelegt ist bekommt eine Information per Privatnachrichten.
+
+WICHTIG verwendet den Bot nur auf einem Server und stellt ihn auf Privat! Sonst funktioniert der Bot nicht richtig.
+
+
+
+
 (EN) First of all: Please unzip the file.
 
 (DE/GE) Zuerst: Entpacke bitte die Datei.
