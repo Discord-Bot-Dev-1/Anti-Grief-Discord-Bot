@@ -1,3 +1,8 @@
 # Anti-Grief-Discord-Bot
-English: If you want to use this Bot, you must replace 123 in line 3 (ownerfromdiscord = "123"; ) with your id. In line 1 please replace "your bot token here" with your bot id (const bottoken = "your bot token here";) You can ignore the // After much lines. There you can only see what exactly is being done in the line. Because the bot was actually intended for German servers. But since I thought you can use it for several servers. License: GNU AFFERO GENERAL PUBLIC LICENSE v 3.0
-German: Wenn du den Bot nutzen magst, lese dir einfach in der index.js die letzten Zeilen durch. License: GNU AFFERO GENERAL PUBLIC LICENSE v 3.0
+
+(EN) First of all: Please unzip the file.
+(DE/GE) Zuerst: Entpacke bitte die Datei.
+
+English: This bot is actually only intended for German servers. If you are not a German server, you can still use the bot. Simply replace the messages in lines 33, 31 and 26 with any other text. Attention! Just replace the text in the "for example on line 26 like this: msg.reply (" I was hacked): I'm going now! <@ "+ ownerfromdiscord +"> ");. In lines 14,15 and 16 you only have to adjust your variables.
+
+Deutsch/German: Bitte lese dir in der index.js Linie 1-12 durch.
